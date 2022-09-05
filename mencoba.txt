@@ -1,0 +1,2 @@
+Ini adalah file percobaan
+File ini hanya memuat kalimat-kalimat yang digunakan untuk mencoba github
