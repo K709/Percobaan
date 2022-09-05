@@ -1,4 +1,2 @@
 Ini adalah file percobaan
 File ini hanya memuat kalimat-kalimat yang digunakan untuk mencoba github
-
-Ini adalah baris tambahan yang diberikan setelah dua baris sebelumnya.
